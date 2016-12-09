@@ -1,6 +1,6 @@
 # Simple label effects with storyboard visual customization
 
-# THLabel
+# OBOLabel
 
 OBOLabel is a subclass of UILabel, which additionally allows some effects. Customization is set using IBDesignable approach.
 
