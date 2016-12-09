@@ -12,6 +12,7 @@
 		EEE467511DFB40CA006517FF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EEE4674F1DFB40CA006517FF /* Main.storyboard */; };
 		EEE467531DFB40CA006517FF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EEE467521DFB40CA006517FF /* Assets.xcassets */; };
 		EEE467561DFB40CA006517FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EEE467541DFB40CA006517FF /* LaunchScreen.storyboard */; };
+		EEE4675E1DFB41BD006517FF /* OBOLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEE4675D1DFB41BD006517FF /* OBOLabel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		EEE467521DFB40CA006517FF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EEE467551DFB40CA006517FF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EEE467571DFB40CA006517FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EEE4675D1DFB41BD006517FF /* OBOLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OBOLabel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				EEE4674B1DFB40CA006517FF /* AppDelegate.swift */,
 				EEE4674D1DFB40CA006517FF /* ViewController.swift */,
 				EEE4674F1DFB40CA006517FF /* Main.storyboard */,
+				EEE4675D1DFB41BD006517FF /* OBOLabel.swift */,
 				EEE467521DFB40CA006517FF /* Assets.xcassets */,
 				EEE467541DFB40CA006517FF /* LaunchScreen.storyboard */,
 				EEE467571DFB40CA006517FF /* Info.plist */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EEE4674E1DFB40CA006517FF /* ViewController.swift in Sources */,
+				EEE4675E1DFB41BD006517FF /* OBOLabel.swift in Sources */,
 				EEE4674C1DFB40CA006517FF /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
